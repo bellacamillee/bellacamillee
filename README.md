@@ -1,5 +1,7 @@
-## Hi there 👋
+# Hi there 👋
 
+<img src="https://github.com/user-attachments/assets/69baec5d-e88b-4079-a8b8-3b8b010307a1" width="400"/>
+<br> I'm currently a student at ASU studying Graphic Information Technology, focusing on Full-Stack Web Development.
 <!--
 **bellacamillee/bellacamillee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +16,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## I'm currently a student at ASU studying Graphic Information Technology, focusing on Full-Stack Web Development.
-
